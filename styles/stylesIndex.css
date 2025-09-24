@@ -13,7 +13,7 @@ header {
     margin-right: auto;
 }
 
-section p {
+.center p {
     margin-left: 10%;
     margin-bottom: 15px;
     text-align: center;
