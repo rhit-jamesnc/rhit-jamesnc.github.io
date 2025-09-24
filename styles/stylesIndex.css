@@ -10,6 +10,7 @@ header {
 .center {
     display: flex;
     align-items: center;
+    margin-top: 20%;
 }
 
 section p {
