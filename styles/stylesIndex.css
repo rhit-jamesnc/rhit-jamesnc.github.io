@@ -7,12 +7,9 @@ header {
     float: left;
 }
 
-ul {
+section p {
     text-align: center;
-}
-
-li {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 footer {
