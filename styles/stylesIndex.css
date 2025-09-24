@@ -4,12 +4,13 @@ header {
 
 .photo {
     float: left;
+    margin-left: 5%;
 }
 
 section p {
     text-align: center;
-    align-content: center;
     margin-bottom: 15px;
+    margin-left: 20%;
 }
 
 footer {
