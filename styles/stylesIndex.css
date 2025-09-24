@@ -3,8 +3,8 @@ header {
 }
 
 .photo {
-    float: left;
-    margin-left: 10%;
+    float: right;
+    margin-right: 10%;
 }
 
 .center {
