@@ -18,7 +18,9 @@ header {
 }
 
 footer {
+    display: flex;
     text-align: center; 
     color: gray; 
     clear: both; 
+    justify-content: flex-end;
 }
