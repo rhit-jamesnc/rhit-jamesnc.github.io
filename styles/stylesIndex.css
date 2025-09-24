@@ -14,5 +14,8 @@ section p {
 }
 
 footer {
-    text-align: center; color: gray; clear: both;
+    text-align: center; 
+    color: gray; 
+    clear: both; 
+    align-items: end;
 }
