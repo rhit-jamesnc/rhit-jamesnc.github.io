@@ -19,5 +19,5 @@ header {
 footer {
     color: gray; 
     clear: both; 
-    text-align: center;
+    align-content: center;
 }
