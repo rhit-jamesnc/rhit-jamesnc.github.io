@@ -3,12 +3,12 @@ header {
 }
 
 .photo {
-    text-align: center; 
     float: left;
 }
 
 section p {
     text-align: center;
+    align-content: center;
     margin-bottom: 15px;
 }
 
