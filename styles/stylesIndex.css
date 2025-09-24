@@ -13,11 +13,11 @@ header {
 }
 
 .center p {
-    
     text-align: center;
 }
 
 footer {
     color: gray; 
     clear: both; 
+    text-align: center;
 }
