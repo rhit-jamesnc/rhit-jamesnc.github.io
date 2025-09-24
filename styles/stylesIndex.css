@@ -7,9 +7,13 @@ header {
     margin-left: 10%;
 }
 
+section {
+    align-items: center;
+    margin-top: 20%;
+}
+
 section p {
     text-align: center;
-    align-items: center;
     margin-bottom: 15px;
     margin-left: 20%;
 }
