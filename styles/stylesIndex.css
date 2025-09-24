@@ -8,7 +8,7 @@ header {
 }
 
 .center {
-    display: flex;
+    display: block;
     align-items: center;
     margin-top: 20%;
 }
