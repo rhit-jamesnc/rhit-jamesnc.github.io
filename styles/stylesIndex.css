@@ -10,12 +10,13 @@ header {
 .center {
     margin-left: 10%;
     margin-top: 5%;
-    text-align: center;
+    
 }
 
 section p {
     margin-left: 10%;
     margin-bottom: 15px;
+    text-align: center;
 }
 
 footer {
