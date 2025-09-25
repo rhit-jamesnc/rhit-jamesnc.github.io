@@ -4,6 +4,7 @@ header {
 
 body {
     background-image: url("../Background-Photo.jpg");
+    background-size: cover;
 }
 
 .photo {
