@@ -7,11 +7,11 @@ h1 {
 
 h2 {
     color: white;
-    size: 200%;
+    size: 350%;
 }
 
 h3 {
-    size: 150%;
+    size: 250%;
 }
 
 body {
@@ -38,8 +38,8 @@ p {
 
 section {
     color: white;
-    margin-top: 10%;
-    size: 150%;
+    margin-top: 5%;
+    size: 200%;
 }
 
 footer {
