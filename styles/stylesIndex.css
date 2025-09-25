@@ -1,8 +1,8 @@
 h1 {
     color: white;
     margin-left: 25%;
-    margin-top: 10%;
     size: 200%;
+    font-family: cursive;
 }
 
 h2 {
@@ -49,9 +49,11 @@ footer {
 
 a:link {
   color: white;
+  text-decoration: none;
 }
 
 /* visited link */
 a:visited {
   color: white;
+  text-decoration: none;
 }
