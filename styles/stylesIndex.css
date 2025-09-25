@@ -1,5 +1,4 @@
 header {
-    text-align: center;
     color: white;
 }
 
@@ -22,6 +21,10 @@ body {
 
 p {
     text-align: center;
+    color: white;
+}
+
+section {
     color: white;
 }
 
