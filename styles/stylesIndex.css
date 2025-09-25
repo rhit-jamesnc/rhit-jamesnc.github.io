@@ -2,7 +2,7 @@ h1 {
     color: white;
     margin-left: 25%;
     size: 200%;
-    font-family: cursive;
+    font-family: cursive, "brush script mt";
 }
 
 h2 {
@@ -52,7 +52,6 @@ a:link {
   text-decoration: none;
 }
 
-/* visited link */
 a:visited {
   color: white;
   text-decoration: none;
