@@ -45,3 +45,12 @@ footer {
     clear: both; 
     vertical-align: baseline;
 }
+
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
