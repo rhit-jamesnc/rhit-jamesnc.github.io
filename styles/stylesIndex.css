@@ -1,17 +1,17 @@
 h1 {
     color: white;
     margin-left: 25%;
-    size: 200%;
-    font-family: cursive, "brush script mt";
+    size: 300%;
+    font-family: cursive;
 }
 
 h2 {
     color: white;
-    size: 150%;
+    size: 200%;
 }
 
 h3 {
-    size: 125%;
+    size: 150%;
 }
 
 body {
@@ -39,6 +39,7 @@ p {
 section {
     color: white;
     margin-top: 10%;
+    size: 150%;
 }
 
 footer {
@@ -54,5 +55,15 @@ a:link {
 
 a:visited {
   color: white;
+  text-decoration: none;
+}
+
+footer a:link {
+  color: lightgray;
+  text-decoration: none;
+}
+
+footer a:visited {
+  color: lightgray;
   text-decoration: none;
 }
