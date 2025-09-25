@@ -22,10 +22,11 @@ body {
 
 .center p {
     text-align: center;
+    color: white;
 }
 
 footer {
-    color: gray; 
+    color: lightgray; 
     clear: both; 
     vertical-align: baseline;
 }
