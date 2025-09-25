@@ -3,15 +3,18 @@ header {
     text-align: center;
     font-family:  "Lucida Handwriting", cursive;
     padding-top: 8%;
-    padding-bottom: 3%;
+    padding-bottom: 2%;
+    font-size: 200%;
 }
 
 h2 {
     color: white;
+    margin-bottom: 5%;
+    font-size: 250%;
 }
 
 h3 {
-    size: 250%;
+    font-size: 200%;
 }
 
 body {
@@ -40,7 +43,20 @@ p {
 .contact {
     color: white;
     margin-top: 5%;
-    size: 200vb;
+    font-size: 150%;
+}
+
+li {
+    font-size: 115%;
+}
+
+.lists {
+    color: white;
+    padding-left: 5%;
+}
+
+.lists h3 {
+    font-size: 175%;
 }
 
 footer {
@@ -54,14 +70,20 @@ footer {
     text-align: center;
 }
 
+.center a:link {
+  text-decoration: none;
+}
+
+.center a:visited {
+  text-decoration: none;
+}
+
 a:link {
   color: white;
-  text-decoration: none;
 }
 
 a:visited {
   color: white;
-  text-decoration: none;
 }
 
 footer a:link {
@@ -72,4 +94,12 @@ footer a:link {
 footer a:visited {
   color: lightgray;
   text-decoration: none;
+}
+
+#nav {
+    border: 7px solid white;
+    width: fit-content;
+    padding: 7px;
+    color: black;
+    background-color: white;
 }
