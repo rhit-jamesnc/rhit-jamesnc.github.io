@@ -2,6 +2,15 @@ h1 {
     color: white;
     margin-left: 25%;
     margin-top: 10%;
+    size: 200%;
+}
+
+h2 {
+    color: white;
+    size: 150%;
+}
+
+h3 {
     size: 125%;
 }
 
