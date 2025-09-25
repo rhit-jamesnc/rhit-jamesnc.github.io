@@ -1,13 +1,11 @@
-h1 {
+header {
     color: white;
     margin-left: 25%;
-    size: 300%;
-    font-family: cursive;
+    font-family:  "Lucida Handwriting", cursive;
 }
 
 h2 {
     color: white;
-    size: 350%;
 }
 
 h3 {
@@ -24,6 +22,8 @@ body {
 .photo {
     float: right;
     margin-right: 10%;
+    margin-top: 5%;
+    height: 75vh;
 }
 
 .center {
@@ -36,16 +36,15 @@ p {
     color: white;
 }
 
-section {
+.contact {
     color: white;
     margin-top: 5%;
-    size: 200%;
+    size: 200vb;
 }
 
 footer {
     color: lightgray; 
     clear: both; 
-    vertical-align: baseline;
 }
 
 a:link {
