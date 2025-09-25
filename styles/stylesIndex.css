@@ -2,20 +2,18 @@ header {
     color: white;
     text-align: center;
     font-family:  "Lucida Handwriting", cursive;
-    padding-bottom: 2%;
-    font-size: 150%;
+    padding-bottom: 5vh;
+    font-size: 3vh;
     margin-right: 35vh;
     padding-top: 10vh;
 }
 
 h2 {
     color: white;
-    margin-bottom: 10%;
-    font-size: 150%;
+    margin-bottom: 10vh;
 }
 
 h3 {
-    font-size: 200%;
     margin-bottom: -0.5vh;
 }
 
@@ -27,11 +25,12 @@ body {
 }
 
 #nav {
-    border: 5px solid white;
+    border: 0.4vh solid white;
     width: fit-content;
-    padding: 5px;
+    padding: 0.6vh;
     color: black;
     background-color: white;
+    size: 100vh;
 }
 
 .photo {
@@ -41,7 +40,7 @@ body {
 }
 
 .fallJump {
-    margin-right: 17%;
+    margin-right: 23vh;
     float: right;
 }
 
@@ -57,32 +56,26 @@ p {
 
 .contact {
     color: white;
-    margin-top: 5%;
-    font-size: 100%;
 }
 
 li {
-    font-size: 115%;
+    font-size: 2.25vh;
 }
 
 .lists {
     color: white;
-    padding-left: 5%;
-    margin-top: -10vh;
+    padding-left: 4vh;
+    margin-top: -1vh;
 }
 
 .lists h3 {
-    font-size: 175%;
+    font-size: 3.2vh;
 }
 
 footer {
     color: lightgray; 
     clear: both; 
     position: sticky;
-    top: 95%;
-    bottom: 2%;
-    left: 30%;
-    right: 30%;
     text-align: center;
 }
 
