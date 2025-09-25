@@ -15,6 +15,7 @@ h2 {
 
 h3 {
     margin-bottom: -0.5vh;
+    font-size: 5vh;
 }
 
 body {
@@ -40,8 +41,15 @@ body {
 }
 
 .fallJump {
-    margin-right: 23vh;
+    margin-right: -67.5vh;
+    margin-top: -26vh;
     float: right;
+    border: 0.4vh solid red;
+    width: 65vh;
+    padding: 0.6vh;
+    color: black;
+    background-color: black;
+    size: 100vh;
 }
 
 .center {
